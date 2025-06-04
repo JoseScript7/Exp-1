@@ -1,6 +1,8 @@
-# Exp-1 ATM & BANKING SYSTEM
+# Exp-1:
+ATM & BANKING SYSTEM
 
-# AIM:To draw a UML diagram for an ATM and Banking System.
+# AIM:
+To draw a UML diagram for an ATM and Banking System.
 
 # SRS (Procedure):
 Create the following diagrams in StarUML:
