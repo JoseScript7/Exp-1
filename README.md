@@ -15,10 +15,12 @@ Create the following diagrams in StarUML:
 6. Package Diagram
 
 # DIAGRAMS:
+```
 **PROGRAM DEVELOPED BY :** A. RANEN JOSEPH SOLOMON
 
 
 **REGISTER NO :** 212224040269
+```
 
 **USE CASE DIAGRAM:**
 
