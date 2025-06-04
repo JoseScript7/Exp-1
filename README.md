@@ -13,30 +13,32 @@ Create the following diagrams in StarUML:
 6. Package Diagram
 
 # DIAGRAMS:
-PROGRAM DEVELOPED BY : A. RANEN JOSEPH SOLOMON
-REGISTER NO : 212224040269
+**PROGRAM DEVELOPED BY :** A. RANEN JOSEPH SOLOMON
 
-USE CASE DIAGRAM:
+
+**REGISTER NO :** 212224040269
+
+**USE CASE DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/e71ced0e-5ed4-4585-87ad-d834470a8a83)
 
-CLASS DIAGRAM:
+**CLASS DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/46af4cb5-8822-47c2-a6fc-9e5cef3c34ac)
 
-ACTIVITY DIAGRAM:
+**ACTIVITY DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/ff233c58-069d-4a7c-81a7-22af38758f04)
 
-SEQUENCE DIAGRAM:
+**SEQUENCE DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/5c0a2b9e-0e26-4192-a845-25a5a08fdd35)
 
-COMMUNICATION DIAGRAM:
+**COMMUNICATION DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/848ced8d-ec3f-4fe2-9c8f-30d5521b9c94)
 
-PACKAGE DIAGRAM:
+**PACKAGE DIAGRAM:**
 
 ![image](https://github.com/user-attachments/assets/4b16263e-a324-436b-ae1d-a62d8bc76b6d)
 
